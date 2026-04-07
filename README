@@ -17,6 +17,9 @@ Wait for it to load; the CDC label should be black. Press CDC, and when the CDC 
 
 You can see it in action here: https://www.youtube.com/watch?v=mtsP1aldIGk
 
+WARNING: This is a rough firmware, a concept rather than a usable product (although I've personally used it for years).
+Controls (track changes, etc.) are not supported, and the elapsed time displayed is random.
+
 
 
 ITALIANO:
@@ -40,3 +43,6 @@ Accendere il Connect, dopo alcuni istanti il led "L" di Arduino si illumina se v
 Attendere il caricamento, la scritta CDC dovrebbe essere nera, premere CDC e quando scompare la scritta CDC SCAN premere Play, buon ascolto.
 
 Puoi vedere l'emulatore in funzione qui: https://www.youtube.com/watch?v=mtsP1aldIGk
+
+ATTENZIONE: si tratta di un firmware abbozzato, un concept più che un prodotto utilizzabile (anche se personalmnete l'ho utilizzato per anni),
+Non sono supportati i comandi (cambio traccia ecc) e il tempo trascorso visualizzato è casuale.
